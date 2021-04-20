@@ -1,0 +1,83 @@
+{
+   "standardName":"",
+   "buttonActive":1,
+   "dbMock":[
+      {
+         "type":"Stocks",
+         "data":{
+            "Snapshot":{
+               "EconomicMoat":"Narrow",
+               "SplitAdjustedFairValue":98,
+               "EquityStyleBox":2,
+               "MarketCap":2257999,
+               "DailyDividendYield":0.61
+            },
+            "KeyRatios":{
+               "DebtToEquityYear1":1.5101,
+               "ROETTM":82.09,
+               "ROATTM":18.41,
+               "NetMarginTTM":21.73,
+               "NetIncomeGrowth3Year":5.89,
+               "RevenueGrowth3Year":6.19,
+               "FreeCashFlowTTM":80219
+            },
+            "ShortInterest":{
+               "SharesOutstandingInMillion":16788.0957
+            },
+            "ShareClassId":"0P000000GY",
+            "StandardName":"Apple Inc",
+            "Ticker":"AAPL",
+            "Rating":2,
+            "FileType":"USAST"
+         }
+      },
+      {
+         "type":"Funds",
+         "data":{
+            "Snapshot":{
+               "FundNetAssetsInMillion":308434.2,
+               "Yield":1.51,
+               "MorningstarAnnualReportNetExpenseRatio":0.02,
+               "MorningstarFeeLevelBroad":1
+            },
+            "Operations":{
+               "Category":"US Fund Large Blend",
+               "StockStyleBox":2,
+               "PreInceptionRatingOverAll":4,
+               "AnalystRating":7,
+               "LastTurnoverRatio":4
+            },
+            "ShareClassId":"F00000LZSI",
+            "StandardName":"Fidelity® 500 Index",
+            "Ticker":"FXAIX",
+            "Rating":4,
+            "FileType":"USAFO"
+         }
+      },
+      {
+         "type":"ETF",
+         "data":{
+            "Snapshot":{
+               "CurrentNAV":87.46,
+               "SECYield":1.79,
+               "MorningstarAnnualReportNetExpenseRatio":0.1,
+               "TotalAssetsInMillion":9984
+            },
+            "Operations":{
+               "Category":"US Fund Financial",
+               "EquityStyleBox":1,
+               "RatingOverAll":4,
+               "AnalystRating":null
+            },
+            "ShareClassId":"FEUSA04ACA",
+            "StandardName":"Vanguard Financials ETF",
+            "Ticker":"VFH",
+            "Rating":4,
+            "FileType":"USAFE"
+         }
+      }
+   ],
+   "fileType":"TEST",
+   "symbol":"00000000",
+   "rating":Number(1)
+}
